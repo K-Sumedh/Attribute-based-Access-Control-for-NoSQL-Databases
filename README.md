@@ -10,5 +10,7 @@ into any MongoDB server with no additional query overhead.
 
 Files: 
 source\Algorithm.py : Python Implementation of the algorithm to convert ABAC policies to RBAC policies.
+
 source\driver.py: Main program to execute.
+
 212IS012_Db_report.pdf : Report for this project
